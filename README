@@ -1,0 +1,24 @@
+# Componente de Código QR
+
+Esta es una página web de componente de código QR simple construida con HTML y CSS.
+
+## Descripción
+
+Esta página web muestra un componente de código QR junto con un título y una descripción. Es un proyecto simple destinado a practicar habilidades de HTML y CSS.
+
+## Tecnologías
+
+- HTML
+- CSS
+
+## Configuración
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone 
+
+
+## Uso
+
+Abre el archivo "index.html" en tu navegador web para ver la página web del componente de código QR.
